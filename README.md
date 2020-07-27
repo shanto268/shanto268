@@ -10,4 +10,5 @@
 - 📫 How to reach me: [Mail](mailto:sadman-ahmed.shanto@ttu.edu), [LinkedIn](https://www.linkedin.com/in/sshanto).
 - ⚡ Fun fact: I believe the moon exists just because a rat looks at it. 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shanto268)](https://github.com/anuraghazra/github-readme-stats)
 
