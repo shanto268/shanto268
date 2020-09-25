@@ -20,9 +20,10 @@
 ## Senstivity Analysis, Optimization and Calibration Modules developement for Flow Software Package
 
 ## Plotting, Integral and Derivative Calculator GUI Project
--[gif_math](https://github.com/shanto268/sas_math_software/tree/master/media/v0.gif)
+![gif_math](https://github.com/shanto268/sas_math_software/tree/master/media/v0.gif)
 
 ## Bang! The Dice Game - AI Design
+[![vid_bang](http://img.youtube.com/vi/oewrBJD0vEs&t=1s/0.jpg)](http://www.youtube.com/watch?v=oewrBJD0vEs&t=1s "AI Explanation for Bang! The Dice Game")
 
 ## Natural Tree Design generation through Randomness and Fractal Geometry
 
